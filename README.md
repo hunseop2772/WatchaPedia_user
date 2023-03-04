@@ -3,9 +3,7 @@
 
 통합 개발 환경(IDE)
 , 배포서버 주소 : http://13.124.130.62/:8080/
-
 <br>
-
 코드리뷰 블로그 : https://hunseop2772.tistory.com/category/Spring
 <div align="LEFT">
 	<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=INTELLIJIDEA&logoColor=white" />
