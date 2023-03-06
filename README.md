@@ -28,11 +28,14 @@
   <img src="https://img.shields.io/badge/Ajax-007396?style=flat&logo=&logoColor=white" />
 
 </div>
+<br>
+🕹 실제 구현한 화면
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92245622/218246176-9861429c-31da-4ed2-b09e-c4dbec94bbae.gif)
 
 
 <br />
+🎞 자세한 사용 기술
 
 ![image](https://user-images.githubusercontent.com/92245622/218493531-235724a2-3ab7-440d-9c99-317088e7fa46.png)
 
