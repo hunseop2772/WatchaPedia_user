@@ -32,8 +32,6 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92245622/218246176-9861429c-31da-4ed2-b09e-c4dbec94bbae.gif)
 
 
-![KakaoTalk_20230211_192541366](https://user-images.githubusercontent.com/92245622/218253248-068662f3-15d3-4bf7-aadd-d810ebce5e41.png)
-
 <br />
 
 ![image](https://user-images.githubusercontent.com/92245622/218493531-235724a2-3ab7-440d-9c99-317088e7fa46.png)
@@ -51,7 +49,7 @@
 - 마이페이지(보고싶은 콘텐츠)
 - 마이페이지(관심있는 콘텐츠)
 - 마이페이지(별점 콘텐츠)
-- 선호장르, 국가, 배우
+- 사용자의 선호장르, 국가, 배우, 감상시간
 #### 메인 페이지
 - 다양한 콘텐츠(영화, TV, 책, 웹툰)
 - 별점순 추천
@@ -61,6 +59,7 @@
 - 최근개봉 콘텐츠 추천
 - 검색기능(인기검색, 최근검색)
 #### 디테일 페이지
+- 콘텐츠 상세조회
 - 별점, 댓글, 좋아요
 - 댓글, 스포일러 댓글, 대댓글 등록
 - 별점 그래프 시각화
