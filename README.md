@@ -2,7 +2,6 @@
 개발 기간 : 2022.12.05 ~ 2023.02.14
 
 통합 개발 환경(IDE)
-, 배포서버 주소 : http://13.124.130.62/:8080/
 <br>
 코드리뷰 블로그 : [블로그](https://hunseop2772.tistory.com/category/Spring/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0)
 <div align="LEFT">
