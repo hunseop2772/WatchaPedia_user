@@ -3,6 +3,8 @@
 
 통합 개발 환경(IDE)
 <br>
+배포주소 : http://13.125.75.25:8080/
+<br>
 코드리뷰 블로그 : [블로그](https://hunseop2772.tistory.com/category/Spring/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0)
 <div align="LEFT">
 	<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=INTELLIJIDEA&logoColor=white" />
