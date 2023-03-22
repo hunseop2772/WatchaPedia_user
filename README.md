@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA_Hibernate -59666C?style=flat&logo=Hibernate&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/KakaoAPI -FFCD00?style=flat&logo=Kakao&logoColor=brown" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/Ajax-007396?style=flat&logo=&logoColor=white" />
 
